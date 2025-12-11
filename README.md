@@ -22,7 +22,7 @@ Desarrollado como proyecto académico para la materia **Programación en Tiempo 
 
 
 ## 🎥 Gameplay
-👉 **[Ver video del gameplay](https://drive.google.com/file/d/13KEWrZzedi3D4fmT_lsonoAbVtWnck8m/view?usp=dr)**  
+👉 **[Ver video del gameplay](https://drive.google.com/file/d/1UFJUSPrIDIoW6repTXZAiXhklyUGGX5L/view?usp=sharing)**  
 
 ## 🚗 Modelos 3D (Cars - Disney Infinity)
 ![Cars Models](https://cdn.gameplanet.com/wp-content/uploads/2022/08/26192621/disney-infinity-cars-playset-image-8_1.jpg)
